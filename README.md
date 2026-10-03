@@ -43,6 +43,6 @@ Priyaaa — Data Science student
 
 ## Future Scope
 
-- Deploy as a Streamlit web app
+- Deploy as a mobile app
 - Add support for larger datasets
 - Expand AI accuracy testing
